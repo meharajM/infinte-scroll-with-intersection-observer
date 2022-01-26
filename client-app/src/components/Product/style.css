@@ -1,0 +1,20 @@
+.info{
+    margin: 8px;
+}
+.name{
+    font-weight: 600;
+}
+.more-info {
+    display: flex;
+    justify-content: space-between;
+}
+.info button {
+    background-color: #007bff;
+    color: white;
+    border: black;
+    height: 24px;   
+    cursor: pointer;
+}
+.price {
+    margin-top: 4px;
+}

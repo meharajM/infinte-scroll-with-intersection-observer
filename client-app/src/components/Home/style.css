@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    box-shadow: 1px;
+}
+.header h3{
+    margin-left: 16px;
+}

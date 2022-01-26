@@ -1,0 +1,7 @@
+nav{
+    margin: auto;
+    margin-right: 16px;
+}
+.selected{
+    font-weight: bold;
+}
